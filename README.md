@@ -10,8 +10,12 @@ The code in the src folder on GitHub represents my thinking and approach to the 
 
 To run the code on a localhost
 
-1) In a command prompt of a computer with NodeJS installed type "npm start"
+1) clone my-app repo to local machine
 
-2) Point browser to localhost:3000
+2) Open a command prompt and switch to my-app directory
 
-3) npm run build can be used to make the build folder to a minified version of the software
+3) Type "npm start" in command prompt to start localhost server on port 3000
+
+4) Point browser to localhost:3000
+
+Note: The build folder with the minified version of the software for production was created with the command "npm run build"
