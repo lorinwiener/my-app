@@ -22,17 +22,6 @@ class App extends Component {
     
   // }
 
-  // <div className={listItemClass}>
-  //     <div className={itemClass} style={colStyle}>
-  //         <div className={posterClass} style={colHeightStyle}>
-  //             {posterGraphic}
-  //             {channelLogo}
-  //             {timeLeftOverlay}
-  //         </div>
-  //         {info}
-  //     </div>
-  // </div>
-
   render() {
 
     return (
