@@ -19,3 +19,4 @@ To run the code on a localhost
 4) Point browser to localhost:3000
 
 Note: The build folder with the minified version of the software for production was created with the command "npm run build"
+It can be loaded from https://lorinwiener.github.io/my-app/build/index.html
